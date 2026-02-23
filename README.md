@@ -6,7 +6,7 @@ TILEMAPEDITOR
 
 A Java Swing-based Tile Map Editor that allows users to create, edit, and save tile-based maps using custom tilesets.
 
-Features
+Features:
 
 Set map size and tile size at startup
 
